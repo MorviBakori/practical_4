@@ -1,0 +1,35 @@
+body{
+    font-family:Arial;
+    padding:20px;
+    background:rgb(175, 213, 180);
+    transition:0.5s;
+}
+
+.nav{
+    display: inline-flex;
+    text-align: center;
+}
+.nav h1{
+    color: rgb(2, 87, 116);
+    padding-top: 70px;
+    padding-left: 20px;
+}
+
+.dark{
+    background:#f0c9c9;
+    color:rgb(221, 58, 58);
+}
+
+button{
+    padding:10px;
+    margin:5px;
+    cursor:pointer;
+}
+
+img{
+    border-radius:10px;
+}
+
+li{
+    padding:8px;
+}
